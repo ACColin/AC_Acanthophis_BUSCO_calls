@@ -9,7 +9,7 @@
 #PBS -m abe
 #PBS -P xe2
 
-conda activate  paneuc-acanthophis
+conda activate euc-phylo
 
 set -ueo pipefail
 TARGET="${TARGET:-all}"

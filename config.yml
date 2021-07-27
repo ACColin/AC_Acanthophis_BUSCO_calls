@@ -4,7 +4,7 @@
 metadata:
   runlib2samp_file: "rawdata/metadata/rl2s_subset.tsv"
   sample_meta_file: "rawdata/metadata/samples.tsv"
-  setfile_glob: "rawdata/metadata/setfiles/*.txt"
+  setfile_glob: "rawdata/metadata/samplesets/*.txt"
 
 
 #######################################################################
